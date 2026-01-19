@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logoWNH.png" alt="WNH Logo" width="100%" />
+  <img src="../assets/logoWNH.png" alt="WNH Logo" width="100%" />
 
   ### *Repair. Repurpose. Reinvent.*
 
