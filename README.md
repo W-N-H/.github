@@ -1,8 +1,6 @@
-# Welcome to The WNH Initiative ⚡
-
 <div align="center">
 
-  <img src="https://via.placeholder.com/800x200?text=WNH:+Why+Not+Hardware" alt="WNH Logo" width="100%" />
+  <img src="assets/logoWNH.png" alt="WNH Logo" width="100%" />
 
   ### *Repair. Repurpose. Reinvent.*
 
